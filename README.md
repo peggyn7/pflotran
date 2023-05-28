@@ -12,8 +12,10 @@ Python Documentation: https://www.python.org/doc/
 Anaconda Documentation: https://anaconda.cloud/package-categories; https://docs.anaconda.com/
 Jupyter Documentation: https://jupyter.org/install
 
-Install Intel Fortran Compiler
+Install Intel One API and Fortran Compiler
+https://www.intel.com/content/www/us/en/developer/tools/oneapi/base-toolkit-download.html?operatingsystem=window&distributions=online&version=2023.1
 https://www.intel.com/content/www/us/en/docs/oneapi-base-toolkit/get-started-guide-windows/2023-0/overview.html
+
 
 Install Cygwin
 Remove Cygwin Linker: $ mv /usr/bin/link.exe /usr/bin/link-cygwin.exe
