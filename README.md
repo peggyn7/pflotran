@@ -1,9 +1,11 @@
 # pflotran
 PFLOTRAN Files For Coastal Engineering Project
 
-Update Visual Studio and Visual Studio Code
-VS Documentation https://learn.microsoft.com/en-us/visualstudio/windows/?view=vs-2022
+Update Visual Studio Code
 VSC Documentation: https://code.visualstudio.com/Docs
+
+Update Ubuntu
+https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview
 
 Update Python, .NET, anaconda, Jupyter/Voila
 https://www.python.org/downloads/release/python-3113/
