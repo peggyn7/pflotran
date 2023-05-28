@@ -5,10 +5,12 @@ Update Visual Studio and Visual Studio Code
 VS Documentation https://learn.microsoft.com/en-us/visualstudio/windows/?view=vs-2022
 VSC Documentation: https://code.visualstudio.com/Docs
 
-Update Python and .NET
+Update Python, .NET, anaconda, Jupyter/Voila
 https://www.python.org/downloads/release/python-3113/
 Python Documentation: https://www.python.org/doc/
 .NET Documentation: https://learn.microsoft.com/en-us/dotnet/fundamentals/
+Anaconda Documentation: https://anaconda.cloud/package-categories; https://docs.anaconda.com/
+Jupyter Documentation: https://jupyter.org/install
 
 Install Intel Fortran Compiler
 
