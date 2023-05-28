@@ -4,6 +4,9 @@ PFLOTRAN Files For Coastal Engineering Project
 Update Visual Studio Code
 VSC Documentation: https://code.visualstudio.com/Docs
 
+MPI
+
+
 Free GNU Compilers
 https://gcc.gnu.org/
 
