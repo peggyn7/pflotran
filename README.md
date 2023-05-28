@@ -2,9 +2,13 @@
 PFLOTRAN Files For Coastal Engineering Project
 
 Update Visual Studio and Visual Studio Code
+VS Documentation https://learn.microsoft.com/en-us/visualstudio/windows/?view=vs-2022
+VSC Documentation: https://code.visualstudio.com/Docs
 
 Update Python and .NET
 https://www.python.org/downloads/release/python-3113/
+Python Documentation: https://www.python.org/doc/
+.NET Documentation: https://learn.microsoft.com/en-us/dotnet/fundamentals/
 
 Install Intel Fortran Compiler
 
