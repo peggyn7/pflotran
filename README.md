@@ -4,8 +4,8 @@ PFLOTRAN Files For Coastal Engineering Project
 Update Visual Studio Code
 VSC Documentation: https://code.visualstudio.com/Docs
 
-Update Ubuntu
-https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview
+Free GNU Compilers
+https://gcc.gnu.org/
 
 Update Python, .NET, anaconda, Jupyter/Voila
 https://www.python.org/downloads/release/python-3113/
