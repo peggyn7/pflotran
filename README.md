@@ -1,6 +1,9 @@
 # pflotran
 PFLOTRAN Files For Coastal Engineering Project
 
+Update Visual Studio and Visual Studio Code
+Install Intel Fortran Compiler
+
 Install Cygwin
 Remove Cygwin Linker: $ mv /usr/bin/link.exe /usr/bin/link-cygwin.exe
 
