@@ -2,6 +2,7 @@
 PFLOTRAN Files For Coastal Engineering Project
 
 Install Cygwin
+Remove Cygwin Linker: $ mv /usr/bin/link.exe /usr/bin/link-cygwin.exe
 
 PFLOTRAN Files: https://bitbucket.org/pflotran/pflotran/src/master/
 
