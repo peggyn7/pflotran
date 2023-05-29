@@ -19,6 +19,7 @@ Jupyter Documentation: https://jupyter.org/install
 
 Install Cygwin
 Remove Cygwin Linker: $ mv /usr/bin/link.exe /usr/bin/link-cygwin.exe
+Access MINTTY with man mintty
 
 PFLOTRAN Files: https://bitbucket.org/pflotran/pflotran/src/master/
 
