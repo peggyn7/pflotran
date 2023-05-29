@@ -1,7 +1,7 @@
 # pflotran
 PFLOTRAN Files For Coastal Engineering Project
 
-Update Visual Studio Code
+Updated Visual Studio Code but it keeps crashing; does not seem like a stable environment to work in.
 VSC Documentation: https://code.visualstudio.com/Docs
 
 MPI
@@ -17,12 +17,11 @@ Python Documentation: https://www.python.org/doc/
 Anaconda Documentation: https://anaconda.cloud/package-categories; https://docs.anaconda.com/
 Jupyter Documentation: https://jupyter.org/install
 
-Install Cygwin
+Installed Cygwin
 Remove Cygwin Linker: $ mv /usr/bin/link.exe /usr/bin/link-cygwin.exe
 Access MINTTY with man mintty
 
 PFLOTRAN Files: https://bitbucket.org/pflotran/pflotran/src/master/
 
 PETSc Files: git clone -b release https://gitlab.com/petsc/petsc.git petsc or $ git clone https://gitlab.com/petsc/petsc.git petsc
-
-Use Cygwin to install PETSC: Instructions: https://petsc.org/release/install/windows/#installation-with-microsoft-intel-windows-compilers
+Use Cygwin and MINTTY to install PETSC: Instructions: https://petsc.org/release/install/windows/#installation-with-microsoft-intel-windows-compilers
